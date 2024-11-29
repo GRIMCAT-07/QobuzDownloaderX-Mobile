@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">QobuzDownloaderX-Mobile</h1>
-
 <p align="center">
   <a href="https://t.me/JemPH/"> 
     <img
@@ -16,6 +15,10 @@
   <a href="https://phcorner.net/members/jemph.1522390/"> 
     <img
       src="https://img.shields.io/badge/PH-PHCORNER-red.svg?style=for-the-badge&logo=&logoColor=white&labelColor=000000&logoWidth=20">
+  </a>
+  <a href="https://buymeacoffee.com/jemph"> 
+    <img
+      src="https://img.shields.io/badge/BUYMEACOFFEE-yellow.svg?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=000000&logoWidth=20">
   </a>
 </p>
 
@@ -51,7 +54,7 @@
 - Intuitive navigation
 
 ## Credits
-
+Inspired by Qo-DL by Sorrow & Dash
 Developed by JemPH
 
 ## Legal Notice
