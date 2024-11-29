@@ -9,7 +9,7 @@
     <img
       src="https://img.shields.io/badge/TELEGRAM-blue.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000&logoWidth=20">
   </a>
-  <a href="https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/apple-music-downloader.user.js"> 
+  <a href="https://github.com/JemPH"> 
     <img
       src="https://img.shields.io/badge/GITHUB-grey.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&logoWidth=20">
    </a>
