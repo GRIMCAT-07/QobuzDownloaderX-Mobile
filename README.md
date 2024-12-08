@@ -54,8 +54,7 @@
 - Intuitive navigation
 
 ## Credits
-Inspired by Qo-DL by Sorrow & Dash
-Developed by JemPH
+Inspired by Qo-DL by Sorrow & Dash and to ImAiiR
 
 ## Legal Notice
 I take no responsibility for how you choose to use QBDLX Mobile (QobuzDownloaderX-Mobile).
